@@ -1,1 +1,2 @@
-# e-commerce
+# Sunglasses ecommerce store
+
